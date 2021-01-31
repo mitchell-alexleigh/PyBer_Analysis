@@ -5,7 +5,7 @@ The purpose of this project was to analyze PyBer, a ride share app, data to faci
 #Results
 
 ## PyBer Summary 
-![ PyBer Summary](/analysis/ PyBer_summary_table.png)
+![PyBer Summary](analysis/pyber_summary_table.png)
 
 ### Observations
 * The number of Total Rides , Total Drivers, and Total Fares in rural cities is the lowest of all the city types
@@ -18,7 +18,7 @@ The purpose of this project was to analyze PyBer, a ride share app, data to faci
 * Average Fare per Ride and Average Fare Per Driver is the lowest in urban cities
 * Average Fare Per Driver for Urban cities is less than half of Average Fare Per Driver for Suburban Cities
 ## Total Fare by City Type 
-![ PyBer Summary](/analysis/ PyBer_far_summary.png)
+![ PyBer Summary](analysis/PyBer_fare_summary.png)
 
 ### Observations
 * There is an increase in fare for all city types in the fourth week in February 
