@@ -26,7 +26,7 @@ The purpose of this project was to analyze PyBer, a ride share app, data to faci
 * the difference in fare between Urban and Suburban is greater than the difference between Suburban and Rural 
 * there does not appear to be a strong relationship between any of the city types, they appear to increase and decrease independently. 
 
-#Summary 
+# Summary 
 
 I recommend the following
 1. Further analysis on the difference between Average Fare per Driver between Suburban and Urban cities to determine if Urban drivers are being paid adequately. 
